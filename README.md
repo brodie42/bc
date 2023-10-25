@@ -1,6 +1,6 @@
-<p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
+<p align="center">A reupload of 05konz cheats incase they get deleted</p>
+<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">05konz server</a></h2>
+<h3 align="center"><a href="tutorial/readme.md">how to import bookmarklets</a></h2>
 
 ## Information
 
