@@ -10,7 +10,7 @@ There are 3 good methods to using these scripts:
 3. Copying a script and running it in the inspect element console
 </details>
 
-<details><summary><h2>List of Cheats</h2></summary>
+<details><summary><h2>list of cheats</h2></summary>
 
 * [React GUI](cheats/reactGui.js)
 * [GUI](cheats/gui.js)
