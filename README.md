@@ -2,9 +2,7 @@
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">05konz server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">how to import bookmarklets</a></h2>
 
-## Information
-
-# how to use
+### how to use
 
 There are 3 good methods to using these scripts:
 1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
