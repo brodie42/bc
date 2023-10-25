@@ -4,7 +4,7 @@
 
 ## Information
 
-<details><summary><h3>How to use</h3></summary>
+# how to use
 
 There are 3 good methods to using these scripts:
 1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
